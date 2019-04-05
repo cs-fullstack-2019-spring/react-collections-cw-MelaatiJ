@@ -7,3 +7,5 @@ Use the fake database content provided in this project. Create a new component t
 2) Toggle the background color on and off of a clicked row
 3) Style the entire page
 
+<hr>
+2 points.
